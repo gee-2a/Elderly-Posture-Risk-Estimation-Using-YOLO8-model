@@ -32,6 +32,8 @@ When a risky or critical posture is detected, the system automatically plays an 
 ## ⚙️ Output
 
 ![Elderly Posture Demo](posture.jpeg)
+![Elderly Posture Demo](postureop.png)
+
 
 
    
